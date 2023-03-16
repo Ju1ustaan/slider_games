@@ -12,3 +12,4 @@ function clearActiveClasses(){
         slide.classList.remove('active')
     })
 }
+// app
