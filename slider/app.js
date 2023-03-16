@@ -12,9 +12,3 @@ function clearActiveClasses(){
         slide.classList.remove('active')
     })
 }
-// app
-// js
-// kek
-// lol 1
-// sasha+
-// sahsa-
